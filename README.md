@@ -1,5 +1,7 @@
 👋 Hey there, I'm Srivas Gowrisetti!
+
 🚀 Software Development Engineer 2 @ Comcast
+![IMG_0523](https://github.com/user-attachments/assets/f88adb73-5b69-462f-ba6b-3fb6ca9ed178)
 
 💻 Passionate about building scalable systems
 ⚡ Writing clean, optimized & production-ready code
