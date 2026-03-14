@@ -1,4 +1,4 @@
-👋 Hi, I'm Srivas Gowrisetti — Software Development Engineer 2 @ Comcast 🚀
+👋 Hi, I'm Srivas Gowrisetti — Build and Integration Engineer at Qualcom 🚀
 
 💻 Passionate about C++ | Java | Linux | Scalable Systems & Clean Architecture
 
