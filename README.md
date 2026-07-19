@@ -1,9 +1,11 @@
-👋 Hi, I'm Srivas Gowrisetti — Build and Integration Engineer at Qualcom 🚀
+ Welcome Folks,
 
-💻 Passionate about C++ | Java | Linux | Scalable Systems & Clean Architecture
+ Figuring out learning a particular skill,
+ Hope my Repo's could make you get it clear!
 
-⚡ 3.4+ years across Development & Automation Engineering
+ Take the seat, grab some tea/coffe and just keep reading and follow the process.
 
-🛠 Worked at HCLTech (Intel & ANZ projects) — Java, Selenium, Python, JavaScript, Playwright, PowerShell
+ Ping me: @gowrisettivenkatasrivasu@gmail.com
+ Insta: thedragonfury1111
 
-🔥 Consistent learner building, optimizing & leveling up every single day 💪
+ There you go!
